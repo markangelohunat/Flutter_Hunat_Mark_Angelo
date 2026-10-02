@@ -39,4 +39,4 @@ To run it in VS Code:
    (Choose Chrome, an emulator, or a connected device when prompted.)
 
 ## Author
-Franz Andrei T. Hunat
+Mark Angelo Hunat
